@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CrunchTime</string>
+
+    <string name="convert_to">Convert To</string>
+    <string name="convert_from">Convert From</string>
+
+    <string-array name="exercises">
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Jumping Jacks</item>
+        <item>Jogging</item>
+    </string-array>
+
+
+</resources>
