@@ -118,6 +118,7 @@ public class MainActivity extends AppCompatActivity {
         exercises.add(new Exercise("Mins. Jogging", (float)(100.0/12)));
         exercises.add(new Exercise("Mins. Swimming", (float)(100.0/13)));
         exercises.add(new Exercise("Mins. Stairs", (float)(100.0/15)));
+        exercises.add(new Exercise("Calories", (float)(100.0/100)));
 
 
 

@@ -18,6 +18,7 @@ Watch the _super exciting_ [demo video](https://www.youtube.com/watch?v=Dt2IQL8G
 <br/>
 <img src="screenshots/4_convert_r.png" height="400" alt="Screenshot" style="float:left;"/>
 <img src="screenshots/5_live_update.png" height="400" alt="Screenshot" style="float:left;"/>
+<img src="screenshots/6_calories.png" height="400" alt="Screenshot" style="float:left;"/>
 
 ## Acknowledgments
 
